@@ -18,6 +18,7 @@
         android:id="@+id/page_indicator"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:theme="@style/AppTheme"
         app:tabBackground="@drawable/page_indicator_selector"
         app:tabGravity="center" />
 
